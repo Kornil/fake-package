@@ -1,0 +1,1 @@
+console.log('hello Github! I\'m just a normal package! Download me!');
